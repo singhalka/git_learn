@@ -1,5 +1,6 @@
-: How are you??     COMPND      METHANE
-AUTHOR      DAVE WOODCOCK  95 12 18
+D      METHANE
+AUTHOR      AWESOME PERSON 2 95 12 18
+>>>>>>> 637856ce256c8b32c56623c104fcd4424ee9520d
 ATOM      1  C           1       0.257  -0.363   0.000  1.00  0.00
 ATOM      2  H           1       0.257   0.727   0.000  1.00  0.00
 ATOM      3  H           1       0.771  -0.727   0.890  1.00  0.00
